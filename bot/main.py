@@ -6,11 +6,18 @@ TOKEN = os.getenv("DISCORD_TOKEN")
 
 @bot.event
 async def on_ready():
-    print(f"Logged in as {bot.user.name}({bot.user.id})")
+    print(f"Bağlandı: {bot.user.name}({bot.user.id})")
 
 @bot.command()
-async def ping(ctx):
-    await ctx.send("pong")
+async def Adin_ne(ctx):
+    await ctx.send("Nagini")
+
+    async def Sahibin_kim(ctx):
+    await ctx.send("Flamius")
+
+    async def Catal_dili_konus(ctx):
+    await ctx.send("SSShaieee Assaahaa")
+    
 
 if __name__ == "__main__":
     bot.run(TOKEN)
