@@ -18,8 +18,7 @@ async def Adin_ne(ctx):
     async def Catal_dili_konus(ctx):
     await ctx.send("SSShaieee Assaaha")
     
-    async def malmısın(ctx):
-    await ctx.send("düzgün konuş")
+
 
 if __name__ == "__main__":
     bot.run(TOKEN)
