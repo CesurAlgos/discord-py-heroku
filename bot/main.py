@@ -12,13 +12,13 @@ async def on_ready():
 async def Adin_ne(ctx):
     await ctx.send("Nagini")
 
-    async def Sahibin_kim(ctx):
+    async def SahibinKim(ctx):
     await ctx.send("Flamius")
 
-    async def Catal_dili_konus(ctx):
+    async def CatalDiliKonus(ctx):
     await ctx.send("SSShaieee Assaaha")
     
-    async def malmısın(ctx):
+    async def malmisin(ctx):
     await ctx.send("düzgün konuş.")
 
 if __name__ == "__main__":
