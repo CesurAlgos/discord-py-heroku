@@ -107,3 +107,4 @@ venv.bak/
 .mypy_cache/
 bot/main.py
 bot/main.py
+bot/main.py

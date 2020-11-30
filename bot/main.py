@@ -9,7 +9,7 @@ async def on_ready():
     print(f"Logged in as {bot.user.name}({bot.user.id})")
 
 @bot.command()
-async def ping(ctx):
+async def Adin(ctx):
     await ctx.send("nagini")
 
 if __name__ == "__main__":
