@@ -9,13 +9,13 @@ async def on_ready():
     print(f"Bağlandı: {bot.user.name}({bot.user.id})")
 
 @bot.command()
-async def Adin_ne(ctx):
+async def adin(ctx):
     await ctx.send("Nagini")
 
-    async def SahibinKim(ctx):
+    async def sahibin(ctx):
     await ctx.send("Flamius")
 
-    async def CatalDiliKonus(ctx):
+    async def cataldil(ctx):
     await ctx.send("SSShaieee Assaaha")
     
     async def malmisin(ctx):
