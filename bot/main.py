@@ -19,7 +19,7 @@ async def adin(ctx):
     await ctx.send("SSShaieee Assaaha")
     
     async def malmisin(ctx):
-    await ctx.send("düzgün konuş.")
+    await ctx.send("düzgün konuş. Deneme")
 
 if __name__ == "__main__":
     bot.run(TOKEN)
